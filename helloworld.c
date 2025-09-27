@@ -1,6 +1,6 @@
 #include <studio.h>
 int main(void){
-        printf("Hello World!\n");
+        printf("hello world\n");
         return 0;
 }
 #This Is A Comment
